@@ -13,6 +13,6 @@ export const Default = Template.bind({});
 Default.args = {};
 
 export const FixedHeight = Template.bind({});
-Default.args = {
+FixedHeight.args = {
   height: 240,
 };
